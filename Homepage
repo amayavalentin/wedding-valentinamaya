@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentin & Amaya's Wedding</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Valentin & Amaya's Wedding</h1>
+        <p>Date: June 2026</p>
+        <p>Location: Bilbao</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="ourstory.html">Our Story</a></li>
+                <li><a href="eventdetails.html">Event Details</a></li>
+                <li><a href="rsvp.html">RSVP</a></li>
+                <li><a href="dresscode.html">Dress Code</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="parallax">
+        <h2>Join us in celebrating our love!</h2>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
